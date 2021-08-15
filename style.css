@@ -1,6 +1,23 @@
 h1 {
-    color: rgb(0, 255, 221); background-color:rgb(228, 224, 0);
+    color: rgb(255, 109, 189); background-color:rgb(255, 255, 255); font-size:50px;
     }
+h2 {
+    font-size:30px;
+}
+h3 {
+    font-size:20px;
+}
+h4 {
+    font-size:20px;
+}
+h5 {
+    font-size:35px;
+}
+.goods {
+    display:flex;
+}
+
+
 body {
     background-color:rgb(253, 253, 253);
 
