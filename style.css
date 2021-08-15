@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(0, 255, 221); background-color:rgb(228, 224, 0);
+    }
+body {
+    background-color:rgb(253, 253, 253);
+
+}
+li{
+    list-style:none; padding:20px 30px 20px 30px;
+}
+ul{
+    display:flex;
+}
