@@ -38,7 +38,7 @@ h5 {
     font-size:15px;
 }
 .goods {
-    display:flex;
+    display:left;
 }
 .strawberry {
     image:left;
