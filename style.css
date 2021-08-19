@@ -1,5 +1,8 @@
+body {
+    background-color:rgb(93, 103, 114);
+}
 h1 {
-    color: rgb(255, 109, 189); background-color:rgb(255, 255, 255); font-size:50px;
+    color: rgb(255, 109, 189); background-color:rgb(93, 103, 114); font-size:55px;
     }
 h2 {
     font-size:30px;
@@ -7,24 +10,39 @@ h2 {
 h3 {
     font-size:20px;
 }
+.nanamori {
+    color:rgb(163, 65, 255);
+}
 h4 {
     font-size:20px;
 }
+.jel {
+    color:rgb(255, 123, 0);
+}
+.satomi{
+    color:rgb(255, 80, 188);
+}
+.colon {
+    color:rgb(59, 200, 255);
+}
+.root {
+    color:rgb(253, 255, 112);
+}
+.rinu {
+    color:red;
+}
 h5 {
-    font-size:35px;
+    font-size:40px;
+}
+.kinokotakenoko {
+    font-size:15px;
 }
 .goods {
     display:flex;
 }
-
-
-body {
-    background-color:rgb(253, 253, 253);
-
+.strawberry {
+    image:left;
 }
-li{
-    list-style:none; padding:20px 30px 20px 30px;
-}
-ul{
-    display:flex;
+.header {
+    background-color:rgb(252, 70, 221);
 }
